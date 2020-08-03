@@ -1,1 +1,1 @@
-[site]
+[site](https://aksige.github.io/template__six)
